@@ -39,6 +39,7 @@ Apologies — I finished the task on time, but my context window expired before 
 
 ## Commit / push
 
-- Commit sha: (filled after push)
-- Remote HEAD matches local: (verified after push)
-- About verified via GitHub API: (yes/no after check)
+- Commit sha: abda5c867b907fa0cc19b60a1a8404da2a3f8e6e
+- Remote HEAD matches local: YES (git ls-remote origin HEAD = abda5c867b907fa0cc19b60a1a8404da2a3f8e6e)
+- About verified via GitHub API: YES — homepage https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85, repositoryTopics ["makefun"] (gh repo view --json homepageUrl,repositoryTopics)
+- main.py confirmed at repo root via GitHub API (contents/main.py, 926 bytes)
